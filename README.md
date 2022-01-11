@@ -19,5 +19,6 @@
   <a href="https://www.linkedin.com/in/marcosviniciuspinheiro/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
   </a>
+ ![Snake animation](https://github.com/MVPIO/MVPIO/blob/output/github-contribution-grid-snake.svg)
 </div>
-![Snake animation](https://github.com/MVPIO/MVPIO/blop/output/github-contribution-grid-snake.svg)
+
